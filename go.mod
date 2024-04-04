@@ -8,12 +8,12 @@ require (
 	github.com/alessio/shellescape v1.4.2
 	github.com/balajiv113/fd v0.0.0-20230330094840-143eec500f3e
 	github.com/cheggaaa/pb/v3 v3.1.4
-	github.com/containerd/containerd v1.7.3
-	github.com/containerd/continuity v0.4.1
+	github.com/containerd/containerd v1.7.11
+	github.com/containerd/continuity v0.4.2
 	github.com/containers/gvisor-tap-vsock v0.6.2
 	github.com/coreos/go-semver v0.3.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.2
-	github.com/cyphar/filepath-securejoin v0.2.3
+	github.com/cyphar/filepath-securejoin v0.2.4
 	github.com/digitalocean/go-qemu v0.0.0-20221209210016-f035778c97f7
 	github.com/diskfs/go-diskfs v1.3.0
 	github.com/docker/go-units v0.5.0
@@ -39,7 +39,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/xorcare/pointer v1.2.2
 	golang.org/x/sync v0.3.0
-	golang.org/x/sys v0.11.0
+	golang.org/x/sys v0.13.0
 	gopkg.in/op/go-logging.v1 v1.0.0-20160211212156-b2cb9fa56473
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools/v3 v3.5.0
@@ -64,7 +64,7 @@ require (
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/fatih/color v1.15.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
+	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.20.0 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
@@ -103,19 +103,19 @@ require (
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	golang.org/x/crypto v0.11.0 // indirect
-	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.12.0 // indirect
-	golang.org/x/oauth2 v0.8.0 // indirect
-	golang.org/x/term v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/mod v0.11.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/oauth2 v0.10.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.9.1 // indirect
+	golang.org/x/tools v0.10.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4 // indirect
-	google.golang.org/grpc v1.53.0 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
+	google.golang.org/grpc v1.58.3 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.2.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
